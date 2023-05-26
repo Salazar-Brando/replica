@@ -1,0 +1,29 @@
+header{
+    background-color: #BBBBBB;
+    padding: 20px o;
+}
+.caixa{
+    position:absolute;
+    width: 940px;
+    margin: 0 auto;
+}
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+nav li{
+    display: inlive;
+    margin: 0 0 0 15px;
+}
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+nav a:hover{
+    color: hsl(258, 98%, 51%);
+    text-decoration: underline;
+}
